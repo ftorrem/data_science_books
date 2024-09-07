@@ -1,5 +1,7 @@
 #  Ciência de Dados para Iniciantes: Seu Guia de Livros Personalizado 🤓
 
+## Imersão Dev com Google Gemini
+
 **Já se perguntou qual livro de Ciência de Dados seria perfeito para você?** 
 
 📚Este projeto tem como objetivo facilitar a vida de quem está começando seus estudos em Ciência de Dados. Com uma interface simples e intuitiva, você pode pesquisar por livros, autores ou assuntos específicos e encontrar as melhores recomendações.
